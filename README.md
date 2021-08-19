@@ -9,9 +9,14 @@
 ### Minhas redes sociais:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsds/)](https://www.linkedin.com/in/mdsds/)
 
+
+
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mdsds-elt)](https://github.com/mdsds-elt)
 
-### Status GitHub:
 
-![Status](https://github-readme-stats.vercel.app/api?username=mdsds-elt) 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsds-elt&layout=compact)](https://github.com/mdsds-elt)
+### Stats GitHub:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdsds-elt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsds-elt&layout=Compact )](https://github.com/mdsds-elt)
+
+
