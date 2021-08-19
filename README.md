@@ -1,4 +1,20 @@
-## Olá, meu nome é: Márcia de Sá
+
+<p align="center">
+ <h2 align="center">Hi there, I'm Marcia de Sá</h2>
+  <p align="center">Currently Student of Electronic Engineering!</p>
+</p>
+
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/mdsds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mdsds.elt@uea.edu.br?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+  
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdsds/)](https://www.linkedin.com/in/mdsds/)
+ [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mdsds-elt)](https://github.com/mdsds-elt)
+
+
 
 ### Atualmente estou estudando:
 
