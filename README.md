@@ -17,6 +17,7 @@
 ### Stats GitHub:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdsds-elt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsds-elt&layout=Compact )](https://github.com/mdsds-elt)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsds-elt&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mdsds-elt)
+
 
 
