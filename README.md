@@ -6,26 +6,28 @@
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/mdsds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mdsds-elt?style=social"> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdsds-elt?style=social">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMarciaMdsds">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
  
- 
+  <p align='center'>
+  <a href="https://www.linkedin.com/in/mdsds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <hr>
  
- ### Atualmente estou estudando:</h4>
+ ### Atualmente estou estudando:
  
- 
+ ### `FRONT-END` 
 
-![image](https://user-images.githubusercontent.com/81829451/130019185-868072fa-6fcb-476b-b7b0-b764fffc4e8d.png)
-![image](https://user-images.githubusercontent.com/81829451/130018591-40c76b59-e920-4d57-85dc-6e369f22becd.png)
-![image](https://user-images.githubusercontent.com/81829451/130018377-91b6ec03-b41c-4c5d-a3a0-afe185dea176.png)
-![image](https://user-images.githubusercontent.com/81829451/130018716-120a92b7-3502-4525-9f08-fba8bbbf0d97.png)
+ <img src="https://user-images.githubusercontent.com/81829451/130018716-120a92b7-3502-4525-9f08-fba8bbbf0d97.png" width="90" height="90"> <img src="https://user-images.githubusercontent.com/81829451/130375168-809a4404-7b9c-4833-b21c-8779b73ee687.png" width="90" height="90"> 
 
+
+
+### `BACK-END`
+
+<img src="https://user-images.githubusercontent.com/81829451/130018591-40c76b59-e920-4d57-85dc-6e369f22becd.png" width="100" height="100"> 
 <hr>
-
-### Atualmente estou estudando: hardware
-
-![image](https://user-images.githubusercontent.com/81829451/130018928-1ae9b7c1-730c-4571-840f-dff2b8bdd89f.png)
-
 
 
 ### Stats GitHub:
