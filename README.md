@@ -17,7 +17,7 @@
  <hr>
  
   ### Projects:
- 
+  
 <table border="1">
    <thead>
    <tr>
@@ -33,52 +33,48 @@
    <tr>
        <td>Smoke-detection-system-with-NodeMCU</td>
        <td> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mdsds-elt/Smoke-detection-system-with-NodeMCU?style=social"> </td>
-       <td><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mdsds-elt/Smoke-detection-system-with-NodeMCU"></td>
+       <td><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mdsds-elt/Smoke-detection-system-with-NodeMCU"> </td>
         <td><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mdsds-elt/Smoke-detection-system-with-NodeMCU"> </td>
         <td> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mdsds-elt/Smoke-detection-system-with-NodeMCU"> </td>
    </tr>
     
    <tr>
        <td> BME280-SENSOR-WITH-NODEMCU-ESP12  </td>
-       <td>  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mdsds-elt/BME280-SENSOR-WITH-NODEMCU-ESP12?style=social">  <td> 
-       </td> </td>
-       <td>Body1 linha2</td>
-       <td>Body1 linha2</td>
-        <td>Body2 linha1</td>
+       <td>  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mdsds-elt/BME280-SENSOR-WITH-NODEMCU-ESP12?style=social">  </td> 
+       <td> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mdsds-elt/BME280-SENSOR-WITH-NODEMCU-ESP12"> </td>
+        <td> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mdsds-elt/BME280-SENSOR-WITH-NODEMCU-ESP12"> </td>
+       <td> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mdsds-elt/BME280-SENSOR-WITH-NODEMCU-ESP12"> </td>
+     
    </tr> 
     
    </tbody>
  
-    <tbody>
    <tr>
-       <td></td>
-       <td>   </td>
-       <td>  </td>
-       <td>Body2 linha1</td>
-       <td>Body2 linha1</td>
+       <td>  Recreating-Instagram-homepage </td>
+           <td>  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mdsds-elt/Recreating-Instagram-homepage?style=social">  </td> 
+       <td> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mdsds-elt/Recreating-Instagram-homepage"> </td>
+        <td> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mdsds-elt/Recreating-Instagram-homepage"> </td>
+       <td> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mdsds-elt/Recreating-Instagram-homepage"> </td>
    </tr>
     
    <tr>
-       <td>  </td>
-       <td>  </td>
-       <td>Body1 linha2</td>
-       <td>Body1 linha2</td>
-        <td>Body1 linha2</td>
+   
    </tr> 
     
    </tbody>
  
  
    <tfoot>
-       <td>Foot 1</td>
-       <td>Foot 2</td>
-       <td>Foot 2</td>
-       <td>Foot 2</td>
-       <td>Foot 2</td>
+       <td> </td>
+       <td>  </td>
+       <td>  </td>
+       <td>   </td>
+       <td>  </td>
      
    </tfoot>
 </table>
- 
+
+
  <hr>
  ### Atualmente estou estudando:
  
