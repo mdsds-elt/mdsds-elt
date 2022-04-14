@@ -29,8 +29,7 @@
 
  <hr>
  
- ### Atualmente estou estudando:
- 
+ ### I am currently studying: 
  ### `FRONT-END` 
 
  <img src="https://user-images.githubusercontent.com/81829451/130018716-120a92b7-3502-4525-9f08-fba8bbbf0d97.png" width="90" height="90"> <img src="https://user-images.githubusercontent.com/81829451/130375168-809a4404-7b9c-4833-b21c-8779b73ee687.png" width="90" height="90"> 
