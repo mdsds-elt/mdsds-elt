@@ -1,15 +1,10 @@
 
 <p align="center">
  <h2 align="center">Hi there, I'm Marcia de Sá</h2>
+ 
   <p align="center">Electronic Engineering!</p>
-</p>
+ <p align="center">  I listened to a band called Chá de Flores  </p>
 
-
-<p align='center'>
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mdsds-elt?style=social"> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdsds-elt?style=social">
- <img alt="GitHub forks" src="https://img.shields.io/github/forks/mdsds-elt/mdsds-elt?style=social">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <p align='center'>
   <a href="https://www.linkedin.com/in/mdsds/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
