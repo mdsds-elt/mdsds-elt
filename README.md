@@ -1,4 +1,4 @@
-p align="center">
+
  <h2 align="center">Hi there, I'm Marcia de Sá</h2>
   <p align="center">Electronic Engineering!</p>
 
