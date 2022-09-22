@@ -17,7 +17,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently working on [Hub - Tecnologia e Inovação](https://www.linkedin.com/company/hub-tecnologia-e-inova%C3%A7%C3%A3o/people/);
+- 💼 I’m currently working on [CESAR - Centro de Estudos e Sistemas Avançados do Recife ](https://www.cesar.org.br/);
 - 📝 I am currently pursuing a postgraduate degree in machine learning.
 - 😭 I listened to a band called Chá de Flores;
 - 🤔 Addicted to coffee; 🌱
