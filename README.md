@@ -17,10 +17,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently working on [CESAR - Centro de Estudos e Sistemas Avançados do Recife ](https://www.cesar.org.br/).
+- 💼 I’m currently working at [CESAR - Centro de Estudos e Sistemas Avançados do Recife ](https://www.cesar.org.br/).
 - 📝 I am currently pursuing a postgraduate degree in Software Engineering.
-- 😭 I listened to a band called Chá de Flores;
-- 🤔 Addicted to coffee; 🌱
+- 😭 I like to listen to a band called Chá de Flores;
+- 🤔 I'm addicted to coffee; 🌱
 - 💬 Ask me about anything, I am happy to help;
 
 
