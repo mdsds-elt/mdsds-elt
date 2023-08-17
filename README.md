@@ -5,7 +5,7 @@
   <p align='center'>
   <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=mdsds-elt??style=for-the-badge&logo=appveyor" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
  <p align='center'>
