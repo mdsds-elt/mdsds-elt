@@ -29,7 +29,7 @@
 
 
  ### SKILLS: 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)
           
           
           
