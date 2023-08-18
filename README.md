@@ -23,25 +23,25 @@
 - 🤔 I'm addicted to coffee; 🌱
 - 💬 Ask me about anything, I am happy to help;
 
-
-
 <hr>
+
 
 
  ### SKILLS: 
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)
           
           
-          
-          
-
 <hr>
 
 
-### Stats GitHub:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=mdsds-elt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsds-elt&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/mdsds-elt)
+### Stats GitHub:
+<a href="https://github.com/mdsds-elt/github-readme-mdsds-elt">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mdsds-elt" />
+</a>
+<a href="https://github.com/mdsds-elt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsds-elt&layout=compact&langs_count=8&card_width=320" />
+</a>
 
           
 
