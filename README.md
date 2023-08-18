@@ -25,21 +25,16 @@
 
 <hr>
 
-
-
  ### SKILLS: 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)
-          
+![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)          
           
 <hr>
 <!--START_SECTION:waka-->
 
-```text
-🌞 Morning                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-🌆 Daytime                1897 commits        ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                1592 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌙 Night                  877 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-```
+
+<figure><embed src="https://wakatime.com/share/@5518f3a8-9a82-467d-8346-3a7f2ae18a61/2121b6ad-46f3-46a2-9e64-938a6c5a09e7.svg"></embed></figure>
+
+
 
 <!--END_SECTION:waka-->
 
