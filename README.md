@@ -25,7 +25,14 @@
 <hr>
 
  ### SKILLS: 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,arduino,androidstudio,github,linux,md,raspberrypi&theme=light)          
+
+ <h3>🖥️: Languages & Frameworks </h3>
+ 
+![My Skills](https://skillicons.dev/icons?i=cpp,py,java,linux,md,latex,html&theme=light)     
+
+<h3>🧰: Tools and IDEs </h3>
+ 
+![My Skills](https://skillicons.dev/icons?i=vscode,arduino,androidstudio,github,raspberrypi,eclipse&theme=light)  
           
 <hr>
 <!--START_SECTION:waka-->
@@ -43,10 +50,7 @@
 
 ###
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdsds-elt)](https://git.io/streak-stats)
-
 
 ###
 
